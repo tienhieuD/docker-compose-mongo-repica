@@ -1,6 +1,6 @@
 # Deploying a MongoDB Cluster with Docker
 
-- source: https://www.mongodb.com/compatibility/deploying-a-mongodb-cluster-with-docker
+- https://www.mongodb.com/compatibility/deploying-a-mongodb-cluster-with-docker
 
 ## How to run
 
